@@ -1,3 +1,34 @@
-# AI-BOT
-Bu benim ilk AI projelerimden biri hedefim daha iyi projelere adım atmak
-Bu projede, meyvelerin taze mi yoksa bayat mı olduğunu ayırt edebilen bir sistem geliştirilmeye çalışılmıştır. Google’dan alınan meyve görselleri kullanılarak, taze ve bayat meyveler olmak üzere iki sınıf oluşturulmuştur. Daha sonra bu görseller yapay zeka modeline tanıtılarak, görsellerin hangi sınıfa ait olduğu öğrenilmiştir. Amaç, gerçek hayatta meyve seçerken kullanılabilecek basit ve etkili bir ayırt etme sistemi geliştirmektir.
+🥝 Taze mi Bayat mı? Meyve Sınıflandırma Projesi 🍎🍌
+📌 Proje Hakkında
+Bu proje, görsel tanıma kullanarak meyvelerin taze mi yoksa bayat mı olduğunu ayırt etmeyi amaçlayan bir yapay zeka uygulamasıdır. 🍓💡
+Gerçek hayatta özellikle pazarda, manavda ya da markette alışveriş yaparken meyvenin ne kadar taze olduğunu anlamak zor olabilir. İşte bu sistem, bu problemi çözmek için geliştirilmiştir! 🔍🤖
+
+🛠️ Nasıl Çalışır?
+📸 Görsellerin Toplanması:
+Google Görseller üzerinden çeşitli meyvelerin taze ve bayat hallerine ait fotoğraflar toplandı.
+
+🧠 Veri Seti Oluşturma:
+Görseller, iki sınıfa ayrıldı:
+
+Taze Meyveler 🍏
+
+Bayat/Bozulmuş Meyveler 🍐
+
+🏗️ Model Eğitimi:
+Toplanan görseller, bir makine öğrenmesi modeline tanıtıldı ve model bu veriler üzerinden eğitildi.
+
+🔍 Tahmin:
+Eğitilen model, kendisine verilen yeni bir meyve fotoğrafının taze mi yoksa bayat mı olduğunu yüksek doğrulukla tahmin edebiliyor. ✅❌
+
+🎯 Amaç
+Bu projenin amacı, günlük hayatta karşılaşabileceğimiz basit ama önemli bir soruna teknolojik bir çözüm getirmekti. Özellikle gıda israfını önlemek ve daha sağlıklı tercihler yapmak için bu sistem yardımcı olabilir. 🍽️🌍
+
+🚀 Gelecek Planlar
+📱 Mobil uygulamaya dönüştürmek
+
+🍊 Daha fazla meyve çeşidi eklemek
+
+🧪 Derin öğrenme yöntemleriyle daha güçlü modeller kullanmak
+
+Hazırlayan: [İsmini buraya yazabilirsin] 🙋
+Teşekkürler! 💚
