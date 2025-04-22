@@ -39,6 +39,6 @@ Bu projenin amacı, günlük hayatta karşılaşabileceğimiz basit ama önemli 
 
 ---
 
-**Hazırlayan:** *[İsmini buraya yazabilirsin]* 🙋  
+**Hazırlayan:** *[Kerem Salih Mete]* 🙋  
 **Teşekkürler!** 💚
 
